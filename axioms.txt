@@ -1,0 +1,7 @@
+'LiouvilleEnergyRH.Progressions.chi_psi_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LiouvilleEnergyRH.Progressions.psiAP_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LiouvilleEnergyRH.Progressions.least_prime_in_AP' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LiouvilleEnergyRH.chi_psi_of_H' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LiouvilleEnergyRH.psiAP_of_H' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LiouvilleEnergyRH.least_prime_of_H' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LiouvilleEnergyRH.riemannHypothesis_of_H' depends on axioms: [propext, Classical.choice, Quot.sound]
